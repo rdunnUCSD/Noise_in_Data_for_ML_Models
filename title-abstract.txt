@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Exploring Noise in Data: Applications to ML Models
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In machine learning, models are commonly built in such a way to avoid what is known as overfitting. As it is generally understood, overfitting is when a model is fit exactly to the training data causing the model to have poor performance on new examples. This means that overfit models tend to have poor accuracy on unseen data because the model is fit exactly to the training data. Therefore, in order to generalize to all examples of data and not only the examples found in a given training set, models are built with certain techniques to avoid fitting the data exactly. However, it can be found that overfitting does not always work in this way that one might expect as will be shown by fitting models with a given level of noisiness. Specifically, it is seen that some models fit exactly to data with high levels of noise still produce results with high accuracy whereas others are more prone to overfitting.
